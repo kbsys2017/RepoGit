@@ -1,3 +1,7 @@
 Change 1
 Change 2
+<<<<<<< Updated upstream
 Change 4
+=======
+Change 3
+>>>>>>> Stashed changes
